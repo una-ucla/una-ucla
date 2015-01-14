@@ -1,0 +1,149 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 20px 15px;
+  text-transform: uppercase;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.nav img{
+  float: left;
+  width: 200px;
+  display: inline-block;
+    margin:0px;
+    padding:0px;
+    border:none;
+
+}
+.nav h1{
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.nav {
+  background-color: #f7f7f7;
+}
+
+/*.nav {
+  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/2000px-UN_emblem_blue.svg.png');
+  padding-right: 200px;
+  background-repeat: no-repeat;
+  width: 400px;
+}*/
+
+.nav li {
+  display: inline;
+  
+}
+.row p{
+  font-family: 'Varela', sans-serif;
+}
+
+.jumbotron {
+  background-image:url('https://farm4.staticflickr.com/3644/3414000730_ee6ea02b8d.jpg');
+  float: right;
+  height: 560px;
+  width: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px
+  color: black;
+  
+}
+
+
+.jumbotron .container {
+  float: right;
+  /*top:100px;*/
+  color: #3385D6;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 48px;  
+  font-family: 'Varela', sans-serif;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #3385D6;
+}
+.about_the_club{
+    background-color: white;
+     border-bottom: 1px solid #dbdbdb;
+}
+.about_the_club h2{
+    color: #3385D6;
+    font-size:24px;
+    display: block;
+}
+.about_the_club{
+    font-size: 15px;
+    margin-bottom: 1px;
+}
+.about_the_club img{
+    margin:0px;
+    padding:0px;
+    border:none;
+    width: 200px;
+}
+.about_the_club p{
+  color: black;
+  display: block;
+  top: 200px;
+}
+.about_the_club row{
+  display: inline;
+}
+.about_the_club unya_poverty{
+  display: inline;
+}
+.about_the_club unya_secretary{
+  display: inline;
+}
+.about_the_club sustainability{
+  display: inline;
+}
+
+a:hover {
+  color:#3385D6 ;
+text-decoration: none ;
+}
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+.bar h2{
+  background-color: 909090;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+}
